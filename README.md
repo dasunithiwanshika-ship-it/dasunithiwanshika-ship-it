@@ -75,7 +75,7 @@ I'm particularly interested in:
 I'm open to connecting with **AI/ML professionals, developers, researchers, and organizations** working on meaningful technology.
 
 <p align="left">
-  <a href="www.linkedin.com/in/dasuni-thiwanshika-2233a2220">
+  <a href="[www.linkedin.com/in/dasuni-thiwanshika-2233a2220](https://www.linkedin.com/in/dasuni-thiwanshika-2233a2220/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:dasunithiwanshika@gmail.com">
