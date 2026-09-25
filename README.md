@@ -45,10 +45,9 @@ Machine Learning & NLP project focused on detecting fake news using text preproc
 🔹 **[FixNow](https://github.com/dasunithiwanshika-ship-it/FixNow)**
 Full-stack mobile application for managing local service requests, featuring authentication, service management, worker workflows, and intelligent budget-related functionality.
 
-🔹 **Sharentals — Real-World AI/ML Project(https://github.com/dasunithiwanshika-ship-it/sharentals-ai-ml.git)**
+🔹 **[Sharentals](https://github.com/dasunithiwanshika-ship-it/sharentals-ai-ml.git) — Real-World AI/ML Project**
 Applied data collection, preprocessing, and machine learning concepts to a real-world business problem involving **fines and toll-related data**.
 
-> Sharentals project documentation and implementation will be available in my repositories.
 
 ---
 
